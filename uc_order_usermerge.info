@@ -1,0 +1,7 @@
+name = Ubercart Orders User Merge
+description = Merges Ubercart order information for two user accounts.
+dependencies[] = uc_order
+dependencies[] = usermerge
+package = Ubercart - extra
+backdrop = 1.x
+type = module
